@@ -7,7 +7,7 @@ evmbind is an simple cli tool to generate go code bindings for evm from solidity
 go install github.com/all-nights/evmbind@latest
 ```
 
-<strong>See available command:</strong>
+<strong>Usage:</strong>
 
 ```bash
 evmbind -h
